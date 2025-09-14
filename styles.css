@@ -54,7 +54,8 @@ body{
   align-items: center;
 }
 
-.brand-mark img{ border: 4px solid var(--champagne-gold); border-radius: 8px; }
+.brand-mark img{ border:4px solid var(--champagne-gold); border-radius:8px; width:160px; height:auto; display:block; }
+
 
 .site-title{
   font-size: clamp(2rem, 4vw + 1rem, 4rem);
